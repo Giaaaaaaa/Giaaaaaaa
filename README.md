@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Wenjia(Jodie)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ICT. 1st year in uni.
-- 💞️ I started coding as a hobby in 2021, after I became a mum.
+- 💞️ I started coding as a hobby in 2021.
 - 📫 Contact me on dwgia027@gmail.com
 
 <!---
