@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 - 👋 Hi, I’m Wenjia(Jodie)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning software engineering. 1st year in uni.
