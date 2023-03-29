@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Wenjia;ICT+uni+student;I+am+interested+in+web+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Wenjia;I+am+interested+in+web+development;Use+React+to+build+web;Aiming+to+become+Fullstack+developer)](https://git.io/typing-svg)
 - 👋 Hi, I’m Wenjia(Jodie)
 - 👀 I’m interested in web development
 - 🌱 I have a passion for building user friendly front end
